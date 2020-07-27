@@ -65,7 +65,7 @@ img{padding-top: 7vw;
     text-shadow: 12px burlywood;
     text-shadow:grey;}
 h2{
-    color:white;
+    color:ghostwhite;
     text-shadow: cornflowerblue;
     font-size: 3vw;
     font-family: sans-serif;
@@ -209,3 +209,6 @@ a.text2:hover{
 font-color:ghostwhite;
 font-size:1px;
 }
+h1{
+font-color:ghostwhite;
+} 
