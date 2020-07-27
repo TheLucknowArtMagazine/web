@@ -60,7 +60,7 @@ img{padding-top: 7vw;
     width: 50%;
     padding-bottom: 10vw;
 }
-.aligncenter {
+.aligncenter {font-color: ghostwhite;
     text-align: center;
     text-shadow: 12px burlywood;
     text-shadow:grey;}
