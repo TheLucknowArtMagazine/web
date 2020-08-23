@@ -1,5 +1,7 @@
 body{
-background-color: ghostwhite;
+background-color: background-color: #fef9e7;
+background-image: linear-gradient(315deg, #fef9e7 0%, #fddac5 74%);
+
   
     background-size: 100%;
     background-repeat: inherit;
